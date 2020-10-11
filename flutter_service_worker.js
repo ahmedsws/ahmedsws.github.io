@@ -4,19 +4,23 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"assets/NOTICES": "9137889c6c3cfed7e7012846cb260b35",
+"assets/NOTICES": "fc4114c3f57be320f8ab6e9c8c3ef1f6",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/assets/images/backg.jpeg": "9c929083bb34c44b9e2f4911146a0113",
-"assets/assets/images/jungle.jpeg": "b5dce20200a9ed7a16418413969e8d7f",
-"assets/assets/images/profilePicture.jpg": "27c1da039773345f4cdaa09a29c9681b",
-"assets/AssetManifest.json": "0a20bdd97c64bc277b4bbc6372415086",
+"assets/assets/images/dots.svg": "c2696801c0f05d7eef09e6ea6c93e68e",
+"assets/assets/images/nabcfo.png": "5c25b94f598e0c6b7431b2903e1a4ca7",
+"assets/assets/icons/arrowRight.png": "a2ec78727fe6c59dbd88f2b2a14f9265",
+"assets/assets/icons/buttonArrow.svg": "0e2416c45e6398b1b02a4e00914a0be4",
+"assets/assets/icons/dots.png": "c023cf5a418a1af4eea2b7217e441493",
+"assets/assets/icons/phone.png": "042290745c0bfca062cb395d4cb56931",
+"assets/assets/icons/logo.png": "a6183496a49dc8382e4c11ffb3dd8302",
+"assets/AssetManifest.json": "3e5a9b4d3f06d83963bd432b4071edaf",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
-"main.dart.js": "34fa0bdf103e004fb6f3f6473cd7cbd2",
+"main.dart.js": "f02c506b217d330634afd93790ac62cb",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"manifest.json": "a83bbbd9d23ea4d752fbcd44cdc544fa",
-"index.html": "7afe8cfb2c3f6fbb09ed44b3c7062caa",
-"/": "7afe8cfb2c3f6fbb09ed44b3c7062caa"
+"manifest.json": "4c05d10d0122054fa860eb39d8adb4cf",
+"index.html": "f16cca98fe4963ecbfda2e5f3c1c4b11",
+"/": "f16cca98fe4963ecbfda2e5f3c1c4b11"
 };
 
 // The application shell files that are downloaded before a service worker can
